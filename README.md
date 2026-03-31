@@ -1,6 +1,6 @@
 # 🦞 Auto-Diary
 
-> Bilingual daily diary skill for OpenClaw — Chinese for Jialin, English for the HexaLoop system.
+> Bilingual daily diary skill for OpenClaw.
 
 **Languages / 语言**: [English](README.md) | [中文](README-zh.md)
 
